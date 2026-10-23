@@ -1,3 +1,7 @@
+#  Memos
+
+- Web Memos adalah aplikasi berbasis web untuk membuat, menyimpan, dan mengelola catatan menggunakan format Markdown. Sebagai alternatif Google Keep, Web Memos memungkinkan pengguna untuk menulis catatan dengan format teks yang lebih fleksibel, seperti judul, daftar, tautan, dan kode. Aplikasi dirancang untuk membantu pengguna menyusun informasi secara rapi, terstruktur, dan mudah diakses kapan saja.
+
 ## Prasyarat dan Persiapan Server (Prerequisites)
 
 Sebelum melakukan _deployment_ aplikasi **Memos** secara _self-hosted_, beberapa prasyarat infrastruktur, sistem operasi, serta perangkat lunak pendukung harus dipersiapkan terlebih dahulu.
