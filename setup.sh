@@ -7,7 +7,7 @@ sudo apt update -y && sudo apt install -y curl
 echo "=== [2/4] Memeriksa Instalasi Docker ==="
 if ! command -v docker &> /dev/null; then
     echo "Docker belum terpasang. Memulai instalasi Docker..."
-    curl -fsSL [https://get.docker.com](https://get.docker.com) | sh
+    curl -fsSL https://get.docker.com | sh
 fi
 
 echo "=== [3/4] Menyiapkan Direktori Data Memos ==="
