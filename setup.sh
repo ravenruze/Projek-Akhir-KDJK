@@ -14,7 +14,7 @@ echo "=== [3/4] Menyiapkan Direktori Data Memos ==="
 mkdir -p ~/.memos
 
 echo "=== [4/4] Menjalankan Container Memos ==="
-docker run -d \
+sudo docker run -d \
   --name memos \
   --restart unless-stopped \
   -p 5230:5230 \
